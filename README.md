@@ -1,4 +1,4 @@
-# **CHARMM36 Drude Polarizable Force Field Files**
+# **Drude Polarizable Force Field Files**
 
 ## **Contents**
 This repository contains the force field files for the Drude Polarizable CHARMM force field.
